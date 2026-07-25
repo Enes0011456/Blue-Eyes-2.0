@@ -22,4 +22,5 @@ Uygulama içinden resimler
 <img width="727" height="480" alt="Ekran Görüntüsü - 2026-07-26 02-28-00" src="https://github.com/user-attachments/assets/17cb8ac7-a345-4808-bf26-f47acee01693" />
 <img width="595" height="519" alt="Ekran Görüntüsü - 2026-07-26 02-27-18" src="https://github.com/user-attachments/assets/f40d7522-f8fb-40ba-b68a-2083529d0677" />
 <img width="563" height="281" alt="Ekran Görüntüsü - 2026-07-26 02-26-46" src="https://github.com/user-attachments/assets/9ba100f7-2611-47c8-86aa-017b6fa220a4" />
+Api key yokken bu sekilde gösteriyor:
 <img width="716" height="533" alt="Ekran Görüntüsü - 2026-07-26 02-26-22" src="https://github.com/user-attachments/assets/5800fc5a-1cef-4dac-8bc1-16778095d479" />
