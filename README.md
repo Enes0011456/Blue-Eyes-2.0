@@ -1,6 +1,29 @@
 # Blue-Eyes-2.0
 Blue Eyes 2.0
 
+💻 Kurulum Komutları :
+
+sudo apt update
+sudo apt install python3-tk
+
+# Proje klasöründe olduğunuzdan emin olun ve venv oluşturun
+
+python3 -m venv venv
+
+# Sanal ortamı aktifleştirin
+
+source venv/bin/activate
+
+pip install --upgrade pip
+pip install -r requirements.txt
+
+python3 blueeyes.py
+
+
+
+# Blue Eyes hakkında Bilgi Kısmı :
+
+
 Yeni versiyonu ile beraber neler değisti GUİ yapısı ve ayarlar için yapılan GUİ de pencere ve uzun metin modu 
 olan farklı bir alt versiyonu var ve terminal sevenler için gene terminal var
 python kodlarını termianlde renkli yazıyor bu sayede ayırt etmek daha kolay hale geliyor ve GUİ de de aynı sekilde 
